@@ -1,0 +1,16 @@
+imutils
+scikit-image
+scipy
+numpy
+keras==2.11
+opencv-python
+Pillow
+deeplabcut
+pandas
+matplotlib
+python-polylabel
+imgaug
+voxelmorph
+osfclient
+tables
+protobuf==3.20.2
